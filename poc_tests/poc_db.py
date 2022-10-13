@@ -1,14 +1,13 @@
-from sqlalchemy import create_engine
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, String, DateTime, Boolean, ForeignKey
-from sqlalchemy.orm import sessionmaker, relationship
-from sqlalchemy.ext.associationproxy import association_proxy
 from datetime import datetime
-
+from sqlalchemy import create_engine, Column, Integer, String, DateTime, Boolean, ForeignKey
+from sqlalchemy.orm import sessionmaker, relationship
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.ext.associationproxy import association_proxy
 
 
 Base = declarative_base()
 
+### TABLE DEFINITION
 
 class Distrito_sanitario(Base):
     __tablename__ = "distrito_sanitario"
@@ -17,7 +16,8 @@ class Distrito_sanitario(Base):
     nome = Column(String)
     municipio =  Column(String)
 
-    distrito_bairro = relationship("Bairro", cascade="all, delete-orphan", backref="distrito_sanitario")
+    distrito_bairro = relationship("Bairro", cascade="all, delete-orphan",
+                                  backref="distrito_sanitario")
     distritos_b = association_proxy('distrito_bairro', 'bairro')
 
     def __init__(self, id, nome, municipio) -> None:
@@ -197,7 +197,7 @@ class Viatura(Base):
             self.tipo_viatura)
 
 
-# SMALL SAMPLE TEST
+### SMALL SAMPLE TEST
 
 engine = create_engine('sqlite:///SAMU_TEST.db', echo=True)
 Base.metadata.create_all(bind=engine)
