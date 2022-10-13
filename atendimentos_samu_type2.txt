@@ -1,0 +1,6 @@
+Solicitações de atendimento 2016 > http://dados.recife.pe.gov.br/dataset/b28c9774-36a1-4403-9486-84d1ca6d0083/resource/bc0a0901-64aa-4074-a05c-b34e5e1d5f81/download/ocorrenciasamu2016.csv
+Solicitações de atendimento 2017 > http://dados.recife.pe.gov.br/dataset/e643f9e1-d6ee-468d-b408-1e78083bfd49/resource/bdf3244b-7582-4851-be16-6e561420a34b/download/ocorrencias2017.csv
+Solicitações de atendimento 2018 > http://dados.recife.pe.gov.br/dataset/e89dc8fc-642a-459a-83c2-048327088942/resource/d61c045c-1f68-49f7-aaf4-39fa5804d25d/download/ocorrencias2018.csv
+Solicitações de atendimento 2019 > http://dados.recife.pe.gov.br/dataset/56d797ab-07e1-47d4-b8b3-0a13ee371e04/resource/5aaf98cb-0a6a-46e7-8cbd-3fedd6d4fa4d/download/ocorrencias2019.csv
+Solicitações de atendimento 2020 > http://dados.recife.pe.gov.br/dataset/c6336cf5-8774-4ef9-82b9-8122fb4c3c3a/resource/3c09d870-2e88-4e5c-9d60-3500826a25b2/download/ocorrenciassamu2020.csv
+Solicitações de atendimento 2021 > http://dados.recife.pe.gov.br/dataset/8adf3f1c-3147-4b74-a21d-7cc1d433296d/resource/88e23aa4-8e0a-47a6-988c-932e6f8f97fe/download/ocorrenciassamu2021.csv

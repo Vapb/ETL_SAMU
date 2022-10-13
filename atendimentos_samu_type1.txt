@@ -1,0 +1,39 @@
+solicitacoes de atendimento 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/a53f68d6-9f22-47be-ba65-efc6ec9164df/download/solicitacoes2011.csv
+remocoes 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/6d215f7c-d385-456c-bcfc-e5eb7dfa702a/download/remocoes2011.csv
+lista de hospitais 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/fa02483c-fafb-4b49-891e-3a35fb536bbb/download/hospital2011.csv
+lista de especialidades medica 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/29e7779e-67a7-4261-801b-a0a7fdc08bf3/download/especialidademedica2011.csv
+lista de bairros 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/d0c3716d-9bc4-41d1-ba98-b0381dfb015d/download/bairro2011.csv
+lista dos distritos sanitarios 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/e282d54c-6caa-4910-bb44-181229655652/download/distrito2011.csv
+lista de viaturas de atendimento 2011 > http://dados.recife.pe.gov.br/dataset/cee963a3-6339-4aa4-a922-569ad0ca81b6/resource/887fac6d-1adf-4113-b6d7-d8fc8a64d103/download/viatura2011.csv
+
+solicitacoes de atendimento 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/d6fd41bb-0ac8-4f3c-b2da-d68b833f4611/download/solicitacoes2012.csv
+remocoes 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/84943659-0695-4c4d-8a51-991f869ea435/download/remocoes2012.csv
+lista de hospitais 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/81f1f5ae-6b6f-4abd-a761-6613db8547c6/download/hospital2012.csv
+lista de especialidades medica 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/8b5dd988-688a-49f5-9f8a-e449dd4de75f/download/especialidademedica2012.csv
+lista de bairros 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/0f2a8406-1839-4c3f-85f9-7b3412cc47d0/download/bairro2012.csv
+lista dos distritos sanitarios 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/f75feec4-6e3a-4011-9ae0-9f27f41004cb/download/distrito2012.csv
+lista de viaturas de atendimento 2012 > http://dados.recife.pe.gov.br/dataset/e3caccd8-0c8e-4fd4-88fa-c45f2cb43188/resource/d2c1ff80-7948-4d5f-a654-03a3478e7bc4/download/viatura2012.csv
+
+solicitacoes de atendimento 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/02544230-ff80-4c1d-8bac-36c4bc12b2c0/download/saida-solicitacao.csv
+remocoes 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/6d6a3650-116f-49fc-9269-4284627a95e2/download/remocao2013.csv
+lista de hospitais 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/5b1d3240-3251-4b05-8d28-d5fde5875981/download/hospital2013.csv
+lista de especialidades medica 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/939d4bd0-d5ad-4987-a5df-3a48e773f559/download/especialidade2013.csv
+lista de bairros 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/239a14f4-218a-422f-b3a3-a0dd5c8cdc2c/download/bairro2013.csv
+lista dos distritos sanitarios 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/6f935a48-4bfb-462f-8bb0-9d06def164bc/download/distrito2013.csv
+lista de viaturas de atendimento 2013 > http://dados.recife.pe.gov.br/dataset/e9de393a-9723-4981-916e-f7be061ebffb/resource/9f1f0233-8182-4808-95d4-19df08d3f114/download/viatura2013.csv
+
+solicitacoes de atendimento 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/11309c79-8f3a-4e37-9e1b-902bf44e754b/download/solicitacoes2014.csv
+remocoes 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/d6c14629-cb2f-4481-968d-b29e9ecbe267/download/remocoes2014.csv
+lista de hospitais 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/a507e7c8-d74a-47b5-b1b9-512ca0811b37/download/hospital2014.csv
+lista de especialidades medica 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/e0623b0e-f9b8-494c-8726-8652b8495fdd/download/especialidademedica2014.csv
+lista de bairros 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/c3f1c417-28c5-42dc-be48-f57a5ff42cf6/download/bairro2014.csv
+lista dos distritos sanitarios 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/721b6897-32af-4933-b50a-057476023dca/download/distrito2014.csv
+lista de viaturas de atendimento 2014 > http://dados.recife.pe.gov.br/dataset/2c94f7d6-731d-4009-8708-139be4c04fd6/resource/2e024d95-1ca2-487b-b3e4-df9a38431da0/download/viatura2014.csv
+
+solicitacoes de atendimento 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/f61ca8fb-a8ec-4878-ba8b-d110f11b7c9d/download/solicitacoes2015.csv
+remocoes 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/14382808-c800-4355-a5c3-d853cc0c5563/download/remocoes2015.csv
+lista de hospitais 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/0cc26b70-b0ce-46b5-a53d-e76657962709/download/hospital2015.csv
+lista de especialidades medica 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/89cd16d3-4799-42c1-9e87-e68325228274/download/especialidademedica2015.csv
+lista de bairros 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/08499936-188e-43c5-9537-937e7219afbc/download/bairro2015.csv
+lista dos distritos sanitarios 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/b4f23fce-c9d7-4334-a089-27460a1d867b/download/distrito2015.csv
+lista de viaturas de atendimento 2015 > http://dados.recife.pe.gov.br/dataset/3fd26451-7780-4f25-930b-09875fd5171d/resource/4eecbfea-dfb0-4581-93d4-a6d387d83a50/download/viatura2015.csv
